@@ -1,0 +1,4 @@
+discord.py==2.6.4
+stripe==14.0.0
+pillow==12.0.0
+aiohttp==3.13.1
