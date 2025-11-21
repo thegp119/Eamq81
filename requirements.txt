@@ -1,6 +1,0 @@
-discord.py
-aiohttp
-Pillow
-git add requirements.txt
-git commit -m "Fix requirements.txt for Railway"
-git push
